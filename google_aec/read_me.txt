@@ -1,0 +1,1 @@
+Google AEC library is built @224008926. Build flags: --copt=-DABSL_MIN_LOG_LEVEL=2 --config=android_arm --copt=-mfpu=neon --copt=-O3 -c opt
